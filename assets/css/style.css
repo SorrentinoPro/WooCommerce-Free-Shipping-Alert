@@ -1,0 +1,17 @@
+.pxw_woo_free_ship_alert_box{
+	border: 0;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	display: table;
+}
+
+.pxw_woo_free_ship_alert_top {
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+.ship_on_target{display:none;}
+.ship_on_target.active{display:block;margin: 0; padding: 10px;}
+
+.ship_off_target{display:none;}
+.ship_off_target.active{display:block;margin: 0; padding: 10px;}
